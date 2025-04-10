@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="266.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.LoggedInController">
+   <children>
+      <HBox prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <VBox prefHeight="315.0" prefWidth="302.0">
+               <children>
+                  <Label fx:id="userLabel" text="User:">
+                     <VBox.margin>
+                        <Insets left="10.0" top="10.0" />
+                     </VBox.margin>
+                  </Label>
+                  <TableView fx:id="cazTable" prefHeight="258.0" prefWidth="280.0">
+                    <columns>
+                      <TableColumn fx:id="cazName" prefWidth="140.0" text="Nume" />
+                      <TableColumn fx:id="cazSum" prefWidth="140.0" text="Suma" />
+                    </columns>
+                     <VBox.margin>
+                        <Insets left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                  </TableView>
+                  <HBox alignment="CENTER_LEFT" prefHeight="28.0" prefWidth="270.0">
+                     <VBox.margin>
+                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                     <children>
+                        <TextField fx:id="newCazName" prefHeight="26.0" prefWidth="224.0" promptText="Nume" />
+                        <Button fx:id="addCase" mnemonicParsing="false" onAction="#addCase" prefHeight="26.0" prefWidth="62.0" text="Add" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+            <VBox prefHeight="400.0" prefWidth="303.0">
+               <children>
+                  <HBox alignment="CENTER_LEFT" prefHeight="8.0" prefWidth="282.0">
+                     <VBox.margin>
+                        <Insets left="10.0" right="10.0" top="40.0" />
+                     </VBox.margin>
+                     <children>
+                        <Label text="Charity:" />
+                        <TextField fx:id="amount" prefHeight="26.0" prefWidth="163.0" />
+                        <Button fx:id="donate" mnemonicParsing="false" onAction="#donate" prefHeight="26.0" prefWidth="77.0" text="Donate" />
+                     </children>
+                  </HBox>
+                  <TextField fx:id="searchBar" onKeyTyped="#populateDonatorTable" promptText="Search">
+                     <VBox.margin>
+                        <Insets left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TableView fx:id="donatorTable" prefHeight="184.0" prefWidth="281.0">
+                    <columns>
+                      <TableColumn fx:id="donatorName" prefWidth="81.59997403621674" text="Nume" />
+                      <TableColumn fx:id="donatorAddress" prefWidth="98.60004425048828" text="Adresa" />
+                        <TableColumn fx:id="donatorPhone" prefWidth="100.5999755859375" text="Telefon" />
+                    </columns>
+                     <VBox.margin>
+                        <Insets left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                  </TableView>
+                  <HBox alignment="CENTER_LEFT" prefHeight="29.0" prefWidth="301.0">
+                     <VBox.margin>
+                        <Insets left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                     <children>
+                        <TextField fx:id="newDonorName" promptText="Nume" />
+                        <TextField fx:id="newDonorAddress" promptText="Adresa" />
+                        <TextField fx:id="newDonorPhone" promptText="Telefon" />
+                        <Button fx:id="addDonor" mnemonicParsing="false" onAction="#addDonor" prefHeight="26.0" prefWidth="115.0" text="Add" />
+                     </children>
+                  </HBox>
+               </children></VBox>
+         </children></HBox>
+   </children>
+</AnchorPane>
