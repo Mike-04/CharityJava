@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="280.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.client.LoginController">
+   <children>
+      <VBox fx:id="login" alignment="CENTER" prefHeight="400.0" prefWidth="280.0">
+         <children>
+            <TextField fx:id="loginUsername" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="150.0" promptText="Username">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin></TextField>
+            <PasswordField fx:id="loginPassword" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="150.0" promptText="Password">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin></PasswordField>
+            <Button fx:id="loginButton" mnemonicParsing="false" onAction="#logIn" prefHeight="26.0" prefWidth="70.0" text="Login">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </Button>
+            <TextField fx:id="registerUsername" layoutX="75.0" layoutY="160.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onKeyTyped="#checkUsername" prefHeight="26.0" prefWidth="150.0" promptText="Create Username">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </TextField>
+            <PasswordField fx:id="registerPassword" layoutX="75.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="150.0" promptText="Create Password">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </PasswordField>
+            <PasswordField fx:id="registerPasswordConfirm" layoutX="75.0" layoutY="271.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="150.0" promptText="Confirm Password">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </PasswordField>
+            <Button fx:id="registerButton" layoutX="115.0" layoutY="179.0" mnemonicParsing="false" onAction="#register" prefHeight="26.0" prefWidth="70.0" text="Register">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </Button>
+            <Label fx:id="warningLabel" text="Username available">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </Label>
+         </children></VBox>
+   </children>
+</AnchorPane>

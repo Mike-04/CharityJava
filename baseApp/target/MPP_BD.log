@@ -1,0 +1,1864 @@
+17 Mar 2025 12:04:31,052 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,056 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+17 Mar 2025 12:04:31,058 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+17 Mar 2025 12:04:31,059 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+17 Mar 2025 12:04:31,059 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+17 Mar 2025 12:04:31,283 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,285 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,285 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,291 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,291 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,296 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,297 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,302 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,302 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,307 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,307 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,313 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,314 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,318 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,318 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,322 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,322 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,326 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,327 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,327 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,328 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,333 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,333 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,337 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,338 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,342 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,342 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,343 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,343 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,348 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,348 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,351 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,351 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,355 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,356 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,356 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,356 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,357 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,357 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,364 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,365 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,368 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,369 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,373 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,373 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,377 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,378 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,385 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,385 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,389 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,389 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,394 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,394 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,397 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,398 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,398 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,398 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,403 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,403 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,407 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,407 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,411 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,412 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,412 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,412 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,415 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,415 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:04:31,420 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:04:31,420 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,227 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,230 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+17 Mar 2025 12:31:29,231 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+17 Mar 2025 12:31:29,232 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+17 Mar 2025 12:31:29,233 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+17 Mar 2025 12:31:29,447 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,449 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,449 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,455 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,455 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,459 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,460 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,464 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,464 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,467 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,468 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,474 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,474 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,478 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,478 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,481 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,481 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,486 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,487 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,487 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,487 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,490 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,490 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,493 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,493 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,497 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,498 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,498 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,498 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,502 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,502 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,506 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,506 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,511 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,511 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,511 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,511 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,512 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,512 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,520 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,520 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,524 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,525 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,528 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,528 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,533 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,533 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,542 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,543 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:31:29,543 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:31:29,543 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,014 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,018 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+17 Mar 2025 12:32:39,020 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+17 Mar 2025 12:32:39,021 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+17 Mar 2025 12:32:39,021 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+17 Mar 2025 12:32:39,238 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,239 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,240 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,245 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,246 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,250 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,250 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,254 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,255 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,258 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,258 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,264 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,264 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,268 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,269 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,272 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,273 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,278 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,278 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,282 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,282 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,286 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,286 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,290 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,290 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,293 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,294 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,297 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,297 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,300 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,300 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,307 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,307 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,311 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,311 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,316 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,316 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,320 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,321 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,325 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,325 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,329 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,329 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,332 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,333 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,338 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,338 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,338 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,338 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,339 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,339 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,346 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,346 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,350 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,351 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,355 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,355 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,359 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,359 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,364 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,364 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,368 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,368 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,371 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,371 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,374 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,374 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,375 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,375 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,378 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,378 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,382 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,382 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,385 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,385 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,386 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,386 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,390 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,390 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:32:39,393 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:32:39,393 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,679 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,683 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+17 Mar 2025 12:46:45,684 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+17 Mar 2025 12:46:45,685 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+17 Mar 2025 12:46:45,685 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+17 Mar 2025 12:46:45,889 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,891 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,891 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,896 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,897 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,902 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,903 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,908 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,908 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,913 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,914 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,920 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,920 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,924 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,924 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,928 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,928 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,933 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,933 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,935 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,935 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,939 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,939 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,943 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,943 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,948 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,949 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,949 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,949 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,954 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,954 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,959 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,959 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,965 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,965 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,966 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,966 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,967 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,967 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,979 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,979 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,985 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,986 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,990 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,991 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:45,994 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:45,995 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,006 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,006 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,011 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,011 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,017 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,017 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,022 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,023 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,023 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,024 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,029 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,029 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,034 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,036 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,040 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,040 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,041 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,041 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,046 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,046 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+17 Mar 2025 12:46:46,050 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+17 Mar 2025 12:46:46,051 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d2de489)
+29 Mar 2025 10:48:12,109 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,112 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 10:48:12,114 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 10:48:12,115 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 10:48:12,115 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 10:48:12,368 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,371 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,371 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,379 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,379 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,388 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,389 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,393 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,394 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,398 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,399 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,404 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,404 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,409 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,410 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,411 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,412 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,416 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,417 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,421 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,421 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,426 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,427 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,430 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,431 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,435 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,435 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,439 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,439 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,442 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,442 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,446 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,447 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,450 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,451 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,455 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,455 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,462 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,462 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,468 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,468 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,475 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,476 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,480 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,480 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,485 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,485 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,489 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,490 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,495 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,496 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,502 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,502 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,503 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,503 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,504 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,504 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,526 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,528 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,533 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,534 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,539 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,539 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,546 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,547 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,557 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,558 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,564 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,564 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,569 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,570 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,577 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,578 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,578 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,579 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,583 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,583 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,587 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,587 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,592 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,593 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,594 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,594 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,599 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,599 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:48:12,603 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:48:12,603 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64b0598)
+29 Mar 2025 10:52:53,184 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:52:53,187 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 10:52:53,189 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 10:52:53,190 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 10:52:53,191 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 10:52:53,370 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d19d71c)
+29 Mar 2025 10:55:00,734 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:55:00,737 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 10:55:00,739 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 10:55:00,739 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 10:55:00,739 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 10:55:00,922 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2bb150f6)
+29 Mar 2025 10:55:53,678 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 10:55:53,680 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 10:55:53,682 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 10:55:53,683 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 10:55:53,683 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 10:55:53,876 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2bb150f6)
+29 Mar 2025 11:08:33,032 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 11:08:33,035 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 11:08:33,037 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 11:08:33,037 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 11:08:33,038 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 11:08:33,226 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@507e5b80)
+29 Mar 2025 11:09:49,271 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 11:09:49,274 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 11:09:49,276 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 11:09:49,276 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 11:09:49,277 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 11:09:49,451 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d19d71c)
+29 Mar 2025 11:10:46,414 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 11:10:46,418 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 11:10:46,420 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 11:10:46,421 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 11:10:46,421 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 11:10:46,615 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d19d71c)
+29 Mar 2025 11:10:56,957 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 11:10:56,960 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 11:10:56,962 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 11:10:56,962 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 11:10:56,963 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 11:10:57,158 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d19d71c)
+29 Mar 2025 11:12:39,757 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 11:12:39,759 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 11:12:39,762 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 11:12:39,762 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 11:12:39,763 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 11:12:39,946 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d19d71c)
+29 Mar 2025 11:53:25,696 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 11:53:25,699 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 11:53:25,700 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 11:53:25,701 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 11:53:25,701 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 11:53:25,908 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@889fa3a)
+29 Mar 2025 12:01:05,811 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:01:05,814 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:01:05,816 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:01:05,817 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:01:05,817 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:01:06,009 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2cce91c4)
+29 Mar 2025 12:02:49,170 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:02:49,173 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:02:49,176 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:02:49,176 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:02:49,177 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:02:49,373 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:03:30,546 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:03:30,549 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:03:30,551 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:03:30,551 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:03:30,552 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:03:30,731 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:05:24,091 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:05:24,094 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:05:24,095 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:05:24,096 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:05:24,096 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:05:24,281 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:06:33,995 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:06:33,998 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:06:34,000 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:06:34,001 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:06:34,001 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:06:34,198 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:06:40,205 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:06:40,205 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:13:15,587 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:13:15,588 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:15:43,081 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:15:43,085 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:15:43,087 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:15:43,088 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:15:43,088 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:15:43,289 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:15:50,682 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:15:50,682 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:15:50,690 ERROR com.service.UserService 40 checkUser - Invalid password hash for user: Mikey
+java.lang.IllegalArgumentException: Invalid salt revision
+	at org.mindrot.jbcrypt.BCrypt.hashpw(BCrypt.java:665) ~[jbcrypt-0.4.jar:?]
+	at org.mindrot.jbcrypt.BCrypt.checkpw(BCrypt.java:764) ~[jbcrypt-0.4.jar:?]
+	at com.service.UserService.checkUser(UserService.java:37) ~[main/:?]
+	at com.service.Service.checkUser(Service.java:24) ~[main/:?]
+	at com.LoginController.logIn(LoginController.java:42) ~[main/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:72) ~[javafx-base-22-win.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:270) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-22-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1860) ~[javafx-fxml-22-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1731) ~[javafx-fxml-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-22-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-22-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8917) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-22-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-22-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3985) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1891) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2709) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-22-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:430) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-22-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+29 Mar 2025 12:18:24,296 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:18:24,299 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:18:24,301 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:18:24,302 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:18:24,302 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:18:24,495 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:18:31,192 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:18:31,192 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:18:31,200 ERROR com.service.UserService 47 checkUser - Invalid password hash for user: Mikey
+java.lang.IllegalArgumentException: Invalid salt revision
+	at org.mindrot.jbcrypt.BCrypt.hashpw(BCrypt.java:665) ~[jbcrypt-0.4.jar:?]
+	at org.mindrot.jbcrypt.BCrypt.checkpw(BCrypt.java:764) ~[jbcrypt-0.4.jar:?]
+	at com.service.UserService.checkUser(UserService.java:39) ~[main/:?]
+	at com.service.Service.checkUser(Service.java:24) ~[main/:?]
+	at com.LoginController.logIn(LoginController.java:42) ~[main/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:72) ~[javafx-base-22-win.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:270) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-22-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1860) ~[javafx-fxml-22-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1731) ~[javafx-fxml-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-22-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-22-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8917) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-22-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-22-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3985) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1891) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2709) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-22-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:430) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-22-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+29 Mar 2025 12:22:42,839 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:22:42,841 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:22:42,843 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:22:42,843 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:22:42,844 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:22:43,072 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:22:52,844 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:22:52,845 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:22:52,853 ERROR com.service.UserService 47 checkUser - Invalid password hash for user: Mikey
+java.lang.IllegalArgumentException: Invalid salt revision
+	at org.mindrot.jbcrypt.BCrypt.hashpw(BCrypt.java:665) ~[jbcrypt-0.4.jar:?]
+	at org.mindrot.jbcrypt.BCrypt.checkpw(BCrypt.java:764) ~[jbcrypt-0.4.jar:?]
+	at com.service.UserService.checkUser(UserService.java:39) ~[main/:?]
+	at com.service.Service.checkUser(Service.java:24) ~[main/:?]
+	at com.LoginController.logIn(LoginController.java:42) ~[main/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:72) ~[javafx-base-22-win.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:270) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-22-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1860) ~[javafx-fxml-22-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1731) ~[javafx-fxml-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-22-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-22-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8917) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-22-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-22-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3985) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1891) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2709) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-22-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:430) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-22-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+29 Mar 2025 12:32:46,071 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:32:46,073 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:32:46,075 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:32:46,076 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:32:46,076 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:32:46,273 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:32:53,113 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:32:53,113 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:32:53,122 ERROR com.service.UserService 47 checkUser - Invalid password hash for user: Mikey04
+java.lang.IllegalArgumentException: Invalid salt revision
+	at org.mindrot.jbcrypt.BCrypt.hashpw(BCrypt.java:665) ~[jbcrypt-0.4.jar:?]
+	at org.mindrot.jbcrypt.BCrypt.checkpw(BCrypt.java:764) ~[jbcrypt-0.4.jar:?]
+	at com.service.UserService.checkUser(UserService.java:39) ~[main/:?]
+	at com.service.Service.checkUser(Service.java:24) ~[main/:?]
+	at com.LoginController.logIn(LoginController.java:42) ~[main/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:72) ~[javafx-base-22-win.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:270) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-22-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1860) ~[javafx-fxml-22-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1731) ~[javafx-fxml-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-22-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-22-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8917) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-22-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-22-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-22-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3985) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1891) ~[javafx-graphics-22-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2709) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-22-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:430) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-22-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-22-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+29 Mar 2025 12:45:50,311 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:45:50,314 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:45:50,315 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:45:50,316 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:45:50,316 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:45:50,508 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:45:56,640 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:45:56,641 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24a38d41)
+29 Mar 2025 12:57:14,452 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:57:14,455 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:57:14,457 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:57:14,459 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:57:14,459 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:57:14,666 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 12:57:22,480 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:57:22,481 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 12:59:44,794 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 12:59:44,798 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 12:59:44,800 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 12:59:44,801 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 12:59:44,802 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 12:59:44,995 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:00:48,044 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:00:48,046 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:00:48,048 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:00:48,048 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:00:48,049 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:00:48,239 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:01:11,694 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:11,697 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:01:11,700 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:01:11,700 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:01:11,701 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:01:11,888 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:13,952 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:13,953 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:15,143 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:15,143 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:15,975 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:15,975 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:17,243 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:17,243 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:17,463 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:17,463 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:17,583 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:17,583 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:18,702 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:18,703 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:19,598 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:19,598 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:20,606 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:20,607 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:20,857 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:20,857 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:20,902 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:20,903 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:20,933 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:20,933 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:20,962 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:20,963 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:20,991 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:20,992 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:21,022 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:21,023 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7346af43)
+29 Mar 2025 13:01:59,285 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:01:59,289 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:01:59,290 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:01:59,291 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:01:59,292 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:01:59,477 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:01,592 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:01,592 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:01,687 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:01,687 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:02,104 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:02,105 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:02,278 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:02,278 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:02,662 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:02,662 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:02,938 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:02,938 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:03,059 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:03,059 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:03,275 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:03,276 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:04,163 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:04,163 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:04,630 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:04,631 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:04,719 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:04,719 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:04,832 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:04,832 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:02:09,540 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:02:09,541 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:28:52,049 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:28:52,052 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:28:52,054 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:28:52,054 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:28:52,055 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:28:52,251 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:28:58,297 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:28:58,297 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:28:58,339 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:28:58,340 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:29:16,156 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:29:16,160 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:29:16,162 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:29:16,163 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:29:16,164 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:29:16,346 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:29:22,335 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:29:22,335 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:29:22,368 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:29:22,369 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:29:22,369 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:29:22,370 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:31:36,805 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:31:36,809 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:31:36,811 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:31:36,813 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:31:36,814 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:31:37,048 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:31:41,955 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:31:41,955 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:31:41,988 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:31:41,988 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:31:41,989 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:31:41,989 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:32:10,190 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:32:10,193 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:32:10,195 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:32:10,196 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:32:10,196 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:32:10,384 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:32:16,345 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:32:16,346 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:32:16,387 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:32:16,387 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:32:16,388 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:32:16,388 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:32:34,462 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:32:34,465 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:32:34,466 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:32:34,467 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:32:34,468 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:32:34,654 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:32:41,461 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:32:41,462 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:32:41,496 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:32:41,497 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:32:41,497 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:32:41,497 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:34:04,850 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:34:04,853 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:34:04,854 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:34:04,855 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:34:04,856 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:34:05,042 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:34:11,288 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:34:11,289 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:34:11,333 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:34:11,333 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:34:11,334 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:34:11,334 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:36:31,380 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:36:31,382 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:36:31,386 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:36:31,387 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:36:31,388 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:36:31,641 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:36:38,362 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:36:38,362 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:36:38,402 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:36:38,402 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:36:38,403 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:36:38,403 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:39:37,495 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:39:37,500 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:39:37,503 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:39:37,504 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:39:37,505 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:39:37,818 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:39:44,571 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:39:44,571 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:39:44,610 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:39:44,611 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:39:44,611 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:39:44,612 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:40:09,481 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:40:09,481 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:40:09,497 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:40:09,498 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:40:09,500 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:40:09,500 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:42:44,206 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:42:44,209 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:42:44,210 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:42:44,211 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:42:44,212 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:42:44,438 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:42:50,065 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:42:50,065 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:42:50,114 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:42:50,115 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:42:50,116 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:42:50,116 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:11,953 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:11,955 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:43:11,959 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:43:11,960 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:43:11,961 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:43:12,194 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:17,996 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:17,996 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:18,048 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:18,048 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:18,049 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:18,050 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:23,392 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:23,392 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:28,512 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:28,513 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:28,518 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:28,518 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:28,519 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:28,519 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:32,576 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:32,576 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:38,155 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:38,155 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:40,679 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:40,679 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:40,684 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:40,684 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:43:40,685 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:43:40,685 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:20,889 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:20,898 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:45:20,902 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:45:20,905 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:45:20,907 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:45:21,469 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:27,955 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:27,956 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:28,007 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:28,007 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:28,008 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:28,008 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:31,871 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:31,872 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:41,055 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:41,055 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:41,061 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:41,062 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:41,062 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:41,062 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:44,567 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:44,568 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:45,263 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:45,264 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:45:45,268 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:45:45,269 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:48:28,799 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:48:28,802 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:48:28,804 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:48:28,804 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:48:28,805 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:48:28,993 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:48:35,838 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:48:35,838 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:48:35,884 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:48:35,884 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:48:35,885 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:48:35,886 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:48:39,478 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:48:39,479 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:48:39,801 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:48:39,802 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:48:39,807 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:48:39,808 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:49:05,101 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:49:05,101 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:49:05,107 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:49:05,107 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:49:05,108 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:49:05,109 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:50:43,947 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:50:43,951 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:50:43,954 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:50:43,955 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:50:43,956 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:50:44,189 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:50:50,085 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:50:50,086 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:50:50,133 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:50:50,134 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:50:50,135 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:50:50,136 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:50:54,546 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:50:54,546 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:50:55,040 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:50:55,040 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:50:55,044 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:50:55,044 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:52:02,156 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:52:02,159 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:52:02,161 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:52:02,162 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:52:02,162 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:52:02,370 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:52:09,828 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:52:09,828 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:52:09,871 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:52:09,871 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:52:09,872 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:52:09,872 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:52:28,585 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:52:28,586 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:52:29,002 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:52:29,003 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:52:29,007 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:52:29,007 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:54:33,989 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:54:33,995 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:54:33,999 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:54:34,001 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:54:34,002 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:54:34,228 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:54:43,362 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:54:43,362 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:54:43,410 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:54:43,411 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:54:43,412 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:54:43,412 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:54:49,262 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:54:49,262 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:54:49,575 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:54:49,575 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:54:49,580 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:54:49,580 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:05,024 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:05,027 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 13:57:05,028 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 13:57:05,029 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 13:57:05,029 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 13:57:05,252 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:12,769 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:12,770 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:12,806 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:12,806 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:12,807 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:12,807 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:20,332 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:20,333 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:20,806 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:20,807 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:20,811 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:20,811 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:28,216 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:28,217 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 13:57:32,749 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 13:57:32,749 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:10:38,071 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:10:38,075 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:10:38,077 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:10:38,078 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:10:38,079 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:10:38,299 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:11:30,237 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:11:30,241 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:11:30,243 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:11:30,244 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:11:30,244 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:11:30,436 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:11:35,768 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:11:35,769 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:11:35,834 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:11:35,834 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:11:35,835 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:11:35,835 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:11:35,846 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:11:35,846 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:11:51,415 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:11:51,416 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:11:51,755 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:11:51,755 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:11:51,761 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:11:51,762 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:04,581 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:04,581 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:09,918 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:09,919 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:10,415 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:10,415 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:10,420 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:10,421 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:14,145 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:14,146 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:14,514 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:14,515 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:14,519 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:14,519 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:20,625 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:20,626 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:20,629 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:20,630 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:12:53,770 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:12:53,775 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:12:53,777 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:12:53,779 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:12:53,780 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:12:54,081 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:00,188 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:00,188 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:00,237 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:00,237 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:00,238 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:00,238 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:00,247 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:00,247 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:41,198 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:41,198 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:47,226 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:47,226 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:57,297 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:57,297 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:58,182 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:58,182 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:13:58,187 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:13:58,187 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:03,666 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:03,667 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:04,358 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:04,358 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:04,362 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:04,363 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:08,926 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:08,927 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:08,932 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:08,932 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:29,513 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:29,513 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:29,941 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:29,942 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:30,921 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:30,921 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:31,724 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:31,725 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:31,905 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:31,906 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:32,521 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:32,521 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:32,718 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:32,718 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:32,853 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:32,853 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:33,245 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:33,245 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:33,402 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:33,403 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:33,578 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:33,578 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:35,815 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:35,815 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:36,709 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:36,709 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:14:57,429 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:14:57,429 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:18:17,041 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:18:17,045 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:18:17,047 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:18:17,047 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:18:17,048 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:18:17,293 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:18:23,457 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:18:23,457 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:18:23,510 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:18:23,511 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:18:23,511 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:18:23,512 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:18:23,521 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:18:23,522 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:19:15,754 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:19:15,758 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:19:15,760 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:19:15,761 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:19:15,762 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:19:16,005 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:19:21,760 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:19:21,761 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:19:21,836 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:19:21,836 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:19:21,838 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:19:21,839 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:19:21,853 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:19:21,854 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:19:30,613 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:19:30,613 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:20:44,094 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:20:44,096 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:20:44,099 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:20:44,099 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:20:44,100 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:20:44,297 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:20:50,037 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:20:50,038 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:20:50,113 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:20:50,114 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:20:50,115 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:20:50,115 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:20:50,126 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:20:50,126 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:20:59,092 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:20:59,092 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:04,664 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:04,664 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:04,669 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:04,669 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:07,116 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:07,117 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:09,563 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:09,564 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:11,256 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:11,257 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:11,624 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:11,625 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:11,630 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:11,630 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:12,427 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:12,428 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:14,475 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:14,476 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:14,479 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:14,479 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:16,196 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:16,197 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:21:16,201 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:21:16,201 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:22:54,632 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:22:54,636 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:22:54,639 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:22:54,639 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:22:54,640 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:22:54,831 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:23:00,158 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:23:00,158 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:23:00,210 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:23:00,211 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:23:00,211 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:23:00,211 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:23:00,221 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:23:00,222 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:26:13,604 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:26:13,609 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:26:13,611 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:26:13,612 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:26:13,613 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:26:13,855 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:26:20,180 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:26:20,180 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:26:20,223 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:26:20,224 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:26:20,224 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:26:20,225 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:26:20,233 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:26:20,234 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:27:04,063 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:27:04,068 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:27:04,070 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:27:04,071 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:27:04,072 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:27:04,270 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@ae2a77d)
+29 Mar 2025 14:27:09,645 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:27:09,645 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@ae2a77d)
+29 Mar 2025 14:27:09,711 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:27:09,711 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@ae2a77d)
+29 Mar 2025 14:27:09,713 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:27:09,713 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@ae2a77d)
+29 Mar 2025 14:27:09,722 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:27:09,723 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@ae2a77d)
+29 Mar 2025 14:27:23,468 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:27:23,468 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@ae2a77d)
+29 Mar 2025 14:27:31,083 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:27:31,084 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@ae2a77d)
+29 Mar 2025 14:27:59,271 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:27:59,276 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:27:59,278 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:27:59,279 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:27:59,280 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:27:59,518 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:28:05,301 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:28:05,302 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:28:05,385 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:28:05,386 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:28:05,387 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:28:05,388 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:28:05,400 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:28:05,400 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:31:26,741 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:31:26,745 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:31:26,746 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:31:26,747 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:31:26,748 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:31:26,951 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:31:33,602 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:31:33,602 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:31:33,655 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:31:33,655 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:31:33,656 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:31:33,656 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:31:33,667 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:31:33,667 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:16,949 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:16,953 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:33:16,955 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:33:16,955 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:33:16,956 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:33:17,164 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:23,658 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:23,659 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:23,718 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:23,719 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:23,720 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:23,721 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:23,733 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:23,734 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:33,228 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:33,229 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:33,943 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:33,943 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:33,948 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:33,949 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:34,557 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:34,557 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:34,561 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:34,561 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:34,874 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:34,874 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:34,878 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:34,878 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:35,059 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:35,059 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:35,063 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:35,063 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:35,235 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:35,235 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:33:35,240 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:33:35,241 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:35:01,567 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:35:01,570 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:35:01,574 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:35:01,574 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:35:01,575 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:35:01,813 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:35:07,402 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:35:07,402 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:35:07,458 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:35:07,458 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:35:07,459 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:35:07,459 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:35:07,468 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:35:07,469 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:35:11,824 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:35:11,825 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:36:57,010 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:36:57,013 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:36:57,015 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:36:57,016 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:36:57,016 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:36:57,234 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:03,235 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:03,236 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:03,300 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:03,300 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:03,301 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:03,301 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:03,312 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:03,312 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:06,885 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:06,885 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:14,685 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:14,686 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:22,617 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:22,617 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:35,032 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:35,033 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:35,289 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:35,290 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:37:35,295 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:37:35,295 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:02,635 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:02,639 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:39:02,640 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:39:02,641 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:39:02,641 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:39:02,845 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:06,432 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:06,433 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:11,446 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:11,447 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:11,496 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:11,497 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:11,497 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:11,498 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:11,507 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:11,507 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:25,174 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:25,174 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:46,678 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:46,678 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:46,688 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:46,688 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:46,689 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:46,689 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:39:46,691 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:39:46,691 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:43:09,474 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:43:09,480 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:43:09,483 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:43:09,485 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:43:09,486 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:43:09,779 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:43:17,186 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:43:17,186 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:43:17,256 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:43:17,257 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:43:17,258 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:43:17,258 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:43:17,270 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:43:17,270 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:48:34,173 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:48:34,176 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:48:34,177 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:48:34,178 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:48:34,178 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:48:34,390 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:48:41,600 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:48:41,600 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:48:41,663 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:48:41,663 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:48:41,664 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:48:41,664 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:48:41,670 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:48:41,671 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:17,337 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:17,341 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 14:59:17,347 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 14:59:17,348 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 14:59:17,348 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 14:59:17,594 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:23,356 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:23,356 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:23,422 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:23,422 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:23,423 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:23,423 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:23,432 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:23,433 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:29,426 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:29,427 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:29,435 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:29,436 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:43,364 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:43,364 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:43,370 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:43,370 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:45,707 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:45,707 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 14:59:45,713 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 14:59:45,713 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:03:52,508 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:03:52,510 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 15:03:52,512 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 15:03:52,513 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 15:03:52,513 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 15:03:52,711 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:03:58,233 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:03:58,234 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:03:58,293 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:03:58,293 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:03:58,294 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:03:58,294 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:03:58,306 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:03:58,306 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:09,703 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:09,708 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 15:05:09,710 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 15:05:09,712 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 15:05:09,712 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 15:05:10,004 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:15,853 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:15,853 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:15,921 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:15,922 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:15,922 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:15,922 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:15,932 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:15,932 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:20,750 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:20,751 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:20,762 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:20,762 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:20,767 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:20,767 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:20,769 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:20,769 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:26,068 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:26,069 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:26,075 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:26,075 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:26,081 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:26,082 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:26,085 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:26,085 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:31,128 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:31,129 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:31,134 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:31,135 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:31,138 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:31,138 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:31,140 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:31,140 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:38,174 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:38,175 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:38,178 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:38,179 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:38,182 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:38,182 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:38,184 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:38,185 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:42,866 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:42,866 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:42,870 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:42,870 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:42,874 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:42,874 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:42,875 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:42,875 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:45,355 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:45,355 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:45,435 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:45,436 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:45,576 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:45,576 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:46,379 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:46,380 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:46,698 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:46,699 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:47,522 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:47,522 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:47,695 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:47,696 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:05:59,255 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:05:59,255 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:01,959 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:01,959 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:01,976 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:01,976 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:01,977 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:01,977 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:01,978 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:01,978 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:22,862 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:22,867 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+29 Mar 2025 15:06:22,870 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+29 Mar 2025 15:06:22,871 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+29 Mar 2025 15:06:22,873 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+29 Mar 2025 15:06:23,089 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:28,471 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:28,471 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:28,518 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:28,518 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:28,519 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:28,520 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:28,530 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:28,530 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:35,438 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:35,438 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:35,464 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:35,465 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:35,466 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:35,467 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:35,469 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:35,469 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:47,041 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:47,041 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:47,055 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:47,055 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:47,059 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:47,059 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+29 Mar 2025 15:06:47,061 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+29 Mar 2025 15:06:47,061 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 11:10:03,270 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 11:10:03,273 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+31 Mar 2025 11:10:03,275 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+31 Mar 2025 11:10:03,276 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+31 Mar 2025 11:10:03,277 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+31 Mar 2025 11:10:03,644 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 11:10:15,222 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 11:10:15,222 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 11:10:15,272 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 11:10:15,272 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 11:10:15,273 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 11:10:15,273 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 11:10:15,278 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 11:10:15,278 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:15,260 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:15,263 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+31 Mar 2025 12:03:15,264 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+31 Mar 2025 12:03:15,265 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+31 Mar 2025 12:03:15,266 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+31 Mar 2025 12:03:15,451 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:24,226 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:24,226 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:24,287 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:24,287 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:24,288 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:24,288 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:24,295 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:24,295 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:35,458 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:35,459 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:35,499 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:35,499 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:35,503 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:35,503 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:35,505 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:35,505 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:52,933 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:52,933 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:03:52,953 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:03:52,954 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:04:01,456 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:04:01,456 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:04:01,461 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:04:01,461 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:04:01,465 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:04:01,465 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:04:01,466 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:04:01,467 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:01,212 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:01,212 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:35,381 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:35,382 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:35,600 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:35,601 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:35,848 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:35,848 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:36,312 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:36,313 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:36,904 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:36,905 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:37,088 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:37,088 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:39,946 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:39,946 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:40,061 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:40,061 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:40,077 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:40,077 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:40,241 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:40,241 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:41,162 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:41,162 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:41,367 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:41,367 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:41,683 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:41,683 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:42,358 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:42,358 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:45,943 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:45,943 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:46,207 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:46,207 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:46,387 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:46,388 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:46,538 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:46,538 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:47,053 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:47,054 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:47,257 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:47,258 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,239 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,239 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,488 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,489 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,519 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,520 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,549 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,549 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,587 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,588 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,620 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,621 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,640 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,640 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,670 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,670 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,703 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,704 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,736 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,737 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,769 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,769 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,788 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,788 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:05:48,819 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:05:48,819 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:35,495 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:35,495 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:35,689 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:35,689 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:35,825 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:35,825 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:36,545 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:36,546 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:36,777 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:36,777 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:37,431 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:37,431 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:38,834 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:38,834 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:39,088 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:39,088 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:39,358 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:39,358 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:39,970 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:39,970 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:40,114 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:40,114 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:40,824 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:40,825 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+31 Mar 2025 12:06:41,379 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+31 Mar 2025 12:06:41,379 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 12:54:08,371 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 12:54:08,374 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 12:54:08,376 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 12:54:08,377 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 12:54:08,378 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 12:54:08,799 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 12:54:16,994 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 12:54:16,995 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 12:54:17,054 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 12:54:17,055 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 12:54:17,056 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 12:54:17,056 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 12:54:17,063 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 12:54:17,063 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 13:24:03,221 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 13:24:03,224 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 13:24:03,226 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 13:24:03,227 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 13:24:03,227 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 13:24:03,437 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 13:26:12,355 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 13:26:12,358 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 13:26:12,360 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 13:26:12,361 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 13:26:12,362 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 13:26:12,584 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 13:26:45,584 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 13:26:45,588 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 13:26:45,590 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 13:26:45,591 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 13:26:45,592 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 13:26:45,835 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 13:34:56,062 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 13:34:56,065 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 13:34:56,067 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 13:34:56,068 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 13:34:56,068 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 13:34:56,335 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 13:53:22,720 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 13:53:22,723 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 13:53:22,725 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 13:53:22,725 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 13:53:22,726 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 13:53:22,938 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 13:53:44,419 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 13:53:44,421 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 13:53:44,423 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 13:53:44,424 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 13:53:44,424 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 13:53:44,633 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 14:02:19,305 TRACE com.repository.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 14:02:19,308 TRACE com.repository.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 14:02:19,310 INFO  com.repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 14:02:19,310 INFO  com.repository.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 14:02:19,311 INFO  com.repository.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 14:02:19,524 TRACE com.repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d6e30d5)
+10 Apr 2025 16:16:48,839 TRACE com.repo.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 16:16:48,842 TRACE com.repo.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 16:16:48,844 INFO  com.repo.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 16:16:48,844 INFO  com.repo.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 16:16:48,845 INFO  com.repo.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 16:16:49,065 TRACE com.repo.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@394ef958)
+10 Apr 2025 16:16:58,757 TRACE com.repo.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 16:16:58,758 TRACE com.repo.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@394ef958)
+10 Apr 2025 16:16:58,818 TRACE com.repo.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 16:16:58,818 TRACE com.repo.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@394ef958)
+10 Apr 2025 16:16:58,819 TRACE com.repo.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 16:16:58,819 TRACE com.repo.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@394ef958)
+10 Apr 2025 16:16:58,829 TRACE com.repo.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 16:16:58,829 TRACE com.repo.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@394ef958)
+10 Apr 2025 16:23:36,363 TRACE com.repo.JdbcUtils 48 getConnection - Enter
+10 Apr 2025 16:23:36,366 TRACE com.repo.JdbcUtils 25 getNewConnection - Enter
+10 Apr 2025 16:23:36,368 INFO  com.repo.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+10 Apr 2025 16:23:36,369 INFO  com.repo.JdbcUtils 31 getNewConnection - user: null
+10 Apr 2025 16:23:36,370 INFO  com.repo.JdbcUtils 32 getNewConnection - pass: null
+10 Apr 2025 16:23:36,614 TRACE com.repo.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@55146cb3)
+11 Apr 2025 14:49:59,667 TRACE com.repo.JdbcUtils 48 getConnection - Enter
+11 Apr 2025 14:49:59,671 TRACE com.repo.JdbcUtils 25 getNewConnection - Enter
+11 Apr 2025 14:49:59,673 INFO  com.repo.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/White Fox/IdeaProjects/Charity/charity.db
+11 Apr 2025 14:49:59,674 INFO  com.repo.JdbcUtils 31 getNewConnection - user: null
+11 Apr 2025 14:49:59,674 INFO  com.repo.JdbcUtils 32 getNewConnection - pass: null
+11 Apr 2025 14:50:00,103 TRACE com.repo.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@55146cb3)
