@@ -4,4 +4,6 @@ include 'service'
 include 'server'
 include 'network'
 include 'client'
+include 'network:proto'
+findProject(':network:proto')?.name = 'proto'
 

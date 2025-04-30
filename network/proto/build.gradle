@@ -1,0 +1,49 @@
+plugins {
+    id("java")
+    id "com.google.protobuf" version "0.9.5"
+}
+
+group = "com.network"
+version = "unspecified"
+
+repositories {
+    mavenCentral()
+}
+
+protobuf {
+    protoc {
+        artifact = 'com.google.protobuf:protoc:4.30.2'
+    }
+    generatedFilesBaseDir = file("$projectDir/src/generated")
+    plugins {
+        grpc {
+            artifact = 'io.grpc:protoc-gen-grpc-java:1.72.0'
+        }
+    }
+    generateProtoTasks {
+        all().configureEach { task ->
+            task.builtins {
+                java{}
+            }
+            task.plugins {
+                grpc {
+                }
+            }
+        }
+    }
+}
+
+sourceSets {
+    main {
+        proto {
+            srcDir 'C:\\Users\\White Fox\\Documents\\MPP\\Common\\'
+        }
+    }
+}
+
+dependencies {
+    implementation 'io.grpc:grpc-protobuf:1.72.0'
+    implementation 'io.grpc:grpc-stub:1.72.0'
+    implementation 'com.google.protobuf:protobuf-java:4.30.2'
+    compileOnly 'javax.annotation:javax.annotation-api:1.3.2'
+}

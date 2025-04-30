@@ -13,6 +13,9 @@ dependencies {
     implementation project(':domain')
     implementation project(':repo')
     implementation project(':service')
+    implementation 'io.grpc:grpc-stub:1.72.0'
+    implementation 'io.grpc:grpc-netty-shaded:1.72.0'
+    implementation 'com.google.protobuf:protobuf-java:4.30.2'
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 }
