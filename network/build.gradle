@@ -13,6 +13,7 @@ dependencies {
     implementation project(':domain')
     implementation project(':repo')
     implementation project(':service')
+    implementation project(':network:proto')
     implementation 'io.grpc:grpc-stub:1.72.0'
     implementation 'io.grpc:grpc-netty-shaded:1.72.0'
     implementation 'com.google.protobuf:protobuf-java:4.30.2'

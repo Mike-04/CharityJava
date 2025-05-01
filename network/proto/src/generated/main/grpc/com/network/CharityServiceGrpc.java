@@ -1,4 +1,4 @@
-package Charity.Protos;
+package com.network;
 
 import static io.grpc.MethodDescriptor.generateFullMethodName;
 
@@ -15,32 +15,32 @@ public final class CharityServiceGrpc {
 
   private CharityServiceGrpc() {}
 
-  public static final java.lang.String SERVICE_NAME = "Charity.Protos.CharityService";
+  public static final java.lang.String SERVICE_NAME = "CharityService";
 
   // Static method descriptors that strictly reflect the proto.
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.LoginUserRequest,
-      Charity.Protos.Charity.LoginUserResponse> getLoginUserMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.LoginUserRequest,
+      com.network.LoginUserResponse> getLoginUserMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "LoginUser",
-      requestType = Charity.Protos.Charity.LoginUserRequest.class,
-      responseType = Charity.Protos.Charity.LoginUserResponse.class,
+      requestType = com.network.LoginUserRequest.class,
+      responseType = com.network.LoginUserResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.LoginUserRequest,
-      Charity.Protos.Charity.LoginUserResponse> getLoginUserMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.LoginUserRequest, Charity.Protos.Charity.LoginUserResponse> getLoginUserMethod;
+  public static io.grpc.MethodDescriptor<com.network.LoginUserRequest,
+      com.network.LoginUserResponse> getLoginUserMethod() {
+    io.grpc.MethodDescriptor<com.network.LoginUserRequest, com.network.LoginUserResponse> getLoginUserMethod;
     if ((getLoginUserMethod = CharityServiceGrpc.getLoginUserMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getLoginUserMethod = CharityServiceGrpc.getLoginUserMethod) == null) {
           CharityServiceGrpc.getLoginUserMethod = getLoginUserMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.LoginUserRequest, Charity.Protos.Charity.LoginUserResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.LoginUserRequest, com.network.LoginUserResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "LoginUser"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.LoginUserRequest.getDefaultInstance()))
+                  com.network.LoginUserRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.LoginUserResponse.getDefaultInstance()))
+                  com.network.LoginUserResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("LoginUser"))
               .build();
         }
@@ -49,29 +49,29 @@ public final class CharityServiceGrpc {
     return getLoginUserMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.GetCazuriRequest,
-      Charity.Protos.Charity.GetCazuriResponse> getGetCazuriMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.GetCazuriRequest,
+      com.network.GetCazuriResponse> getGetCazuriMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "GetCazuri",
-      requestType = Charity.Protos.Charity.GetCazuriRequest.class,
-      responseType = Charity.Protos.Charity.GetCazuriResponse.class,
+      requestType = com.network.GetCazuriRequest.class,
+      responseType = com.network.GetCazuriResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.GetCazuriRequest,
-      Charity.Protos.Charity.GetCazuriResponse> getGetCazuriMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.GetCazuriRequest, Charity.Protos.Charity.GetCazuriResponse> getGetCazuriMethod;
+  public static io.grpc.MethodDescriptor<com.network.GetCazuriRequest,
+      com.network.GetCazuriResponse> getGetCazuriMethod() {
+    io.grpc.MethodDescriptor<com.network.GetCazuriRequest, com.network.GetCazuriResponse> getGetCazuriMethod;
     if ((getGetCazuriMethod = CharityServiceGrpc.getGetCazuriMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getGetCazuriMethod = CharityServiceGrpc.getGetCazuriMethod) == null) {
           CharityServiceGrpc.getGetCazuriMethod = getGetCazuriMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.GetCazuriRequest, Charity.Protos.Charity.GetCazuriResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.GetCazuriRequest, com.network.GetCazuriResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "GetCazuri"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.GetCazuriRequest.getDefaultInstance()))
+                  com.network.GetCazuriRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.GetCazuriResponse.getDefaultInstance()))
+                  com.network.GetCazuriResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("GetCazuri"))
               .build();
         }
@@ -80,29 +80,29 @@ public final class CharityServiceGrpc {
     return getGetCazuriMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.GetDonatorsRequest,
-      Charity.Protos.Charity.GetDonatorsResponse> getGetDonatorsMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.GetDonatorsRequest,
+      com.network.GetDonatorsResponse> getGetDonatorsMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "GetDonators",
-      requestType = Charity.Protos.Charity.GetDonatorsRequest.class,
-      responseType = Charity.Protos.Charity.GetDonatorsResponse.class,
+      requestType = com.network.GetDonatorsRequest.class,
+      responseType = com.network.GetDonatorsResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.GetDonatorsRequest,
-      Charity.Protos.Charity.GetDonatorsResponse> getGetDonatorsMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.GetDonatorsRequest, Charity.Protos.Charity.GetDonatorsResponse> getGetDonatorsMethod;
+  public static io.grpc.MethodDescriptor<com.network.GetDonatorsRequest,
+      com.network.GetDonatorsResponse> getGetDonatorsMethod() {
+    io.grpc.MethodDescriptor<com.network.GetDonatorsRequest, com.network.GetDonatorsResponse> getGetDonatorsMethod;
     if ((getGetDonatorsMethod = CharityServiceGrpc.getGetDonatorsMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getGetDonatorsMethod = CharityServiceGrpc.getGetDonatorsMethod) == null) {
           CharityServiceGrpc.getGetDonatorsMethod = getGetDonatorsMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.GetDonatorsRequest, Charity.Protos.Charity.GetDonatorsResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.GetDonatorsRequest, com.network.GetDonatorsResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "GetDonators"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.GetDonatorsRequest.getDefaultInstance()))
+                  com.network.GetDonatorsRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.GetDonatorsResponse.getDefaultInstance()))
+                  com.network.GetDonatorsResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("GetDonators"))
               .build();
         }
@@ -111,29 +111,29 @@ public final class CharityServiceGrpc {
     return getGetDonatorsMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.AddDonationRequest,
-      Charity.Protos.Charity.OkResponse> getAddDonationMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.AddDonationRequest,
+      com.network.OkResponse> getAddDonationMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "AddDonation",
-      requestType = Charity.Protos.Charity.AddDonationRequest.class,
-      responseType = Charity.Protos.Charity.OkResponse.class,
+      requestType = com.network.AddDonationRequest.class,
+      responseType = com.network.OkResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.AddDonationRequest,
-      Charity.Protos.Charity.OkResponse> getAddDonationMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.AddDonationRequest, Charity.Protos.Charity.OkResponse> getAddDonationMethod;
+  public static io.grpc.MethodDescriptor<com.network.AddDonationRequest,
+      com.network.OkResponse> getAddDonationMethod() {
+    io.grpc.MethodDescriptor<com.network.AddDonationRequest, com.network.OkResponse> getAddDonationMethod;
     if ((getAddDonationMethod = CharityServiceGrpc.getAddDonationMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getAddDonationMethod = CharityServiceGrpc.getAddDonationMethod) == null) {
           CharityServiceGrpc.getAddDonationMethod = getAddDonationMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.AddDonationRequest, Charity.Protos.Charity.OkResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.AddDonationRequest, com.network.OkResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "AddDonation"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.AddDonationRequest.getDefaultInstance()))
+                  com.network.AddDonationRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.OkResponse.getDefaultInstance()))
+                  com.network.OkResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("AddDonation"))
               .build();
         }
@@ -142,29 +142,29 @@ public final class CharityServiceGrpc {
     return getAddDonationMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.AddDonatorRequest,
-      Charity.Protos.Charity.OkResponse> getAddDonatorMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.AddDonatorRequest,
+      com.network.OkResponse> getAddDonatorMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "AddDonator",
-      requestType = Charity.Protos.Charity.AddDonatorRequest.class,
-      responseType = Charity.Protos.Charity.OkResponse.class,
+      requestType = com.network.AddDonatorRequest.class,
+      responseType = com.network.OkResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.AddDonatorRequest,
-      Charity.Protos.Charity.OkResponse> getAddDonatorMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.AddDonatorRequest, Charity.Protos.Charity.OkResponse> getAddDonatorMethod;
+  public static io.grpc.MethodDescriptor<com.network.AddDonatorRequest,
+      com.network.OkResponse> getAddDonatorMethod() {
+    io.grpc.MethodDescriptor<com.network.AddDonatorRequest, com.network.OkResponse> getAddDonatorMethod;
     if ((getAddDonatorMethod = CharityServiceGrpc.getAddDonatorMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getAddDonatorMethod = CharityServiceGrpc.getAddDonatorMethod) == null) {
           CharityServiceGrpc.getAddDonatorMethod = getAddDonatorMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.AddDonatorRequest, Charity.Protos.Charity.OkResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.AddDonatorRequest, com.network.OkResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "AddDonator"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.AddDonatorRequest.getDefaultInstance()))
+                  com.network.AddDonatorRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.OkResponse.getDefaultInstance()))
+                  com.network.OkResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("AddDonator"))
               .build();
         }
@@ -173,29 +173,29 @@ public final class CharityServiceGrpc {
     return getAddDonatorMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateDonatorRequest,
-      Charity.Protos.Charity.OkResponse> getUpdateDonatorMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.UpdateDonatorRequest,
+      com.network.OkResponse> getUpdateDonatorMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "UpdateDonator",
-      requestType = Charity.Protos.Charity.UpdateDonatorRequest.class,
-      responseType = Charity.Protos.Charity.OkResponse.class,
+      requestType = com.network.UpdateDonatorRequest.class,
+      responseType = com.network.OkResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateDonatorRequest,
-      Charity.Protos.Charity.OkResponse> getUpdateDonatorMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateDonatorRequest, Charity.Protos.Charity.OkResponse> getUpdateDonatorMethod;
+  public static io.grpc.MethodDescriptor<com.network.UpdateDonatorRequest,
+      com.network.OkResponse> getUpdateDonatorMethod() {
+    io.grpc.MethodDescriptor<com.network.UpdateDonatorRequest, com.network.OkResponse> getUpdateDonatorMethod;
     if ((getUpdateDonatorMethod = CharityServiceGrpc.getUpdateDonatorMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getUpdateDonatorMethod = CharityServiceGrpc.getUpdateDonatorMethod) == null) {
           CharityServiceGrpc.getUpdateDonatorMethod = getUpdateDonatorMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.UpdateDonatorRequest, Charity.Protos.Charity.OkResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.UpdateDonatorRequest, com.network.OkResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "UpdateDonator"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.UpdateDonatorRequest.getDefaultInstance()))
+                  com.network.UpdateDonatorRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.OkResponse.getDefaultInstance()))
+                  com.network.OkResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("UpdateDonator"))
               .build();
         }
@@ -204,29 +204,29 @@ public final class CharityServiceGrpc {
     return getUpdateDonatorMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.AddCazCaritabilRequest,
-      Charity.Protos.Charity.OkResponse> getAddCazCaritabilMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.AddCazCaritabilRequest,
+      com.network.OkResponse> getAddCazCaritabilMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "AddCazCaritabil",
-      requestType = Charity.Protos.Charity.AddCazCaritabilRequest.class,
-      responseType = Charity.Protos.Charity.OkResponse.class,
+      requestType = com.network.AddCazCaritabilRequest.class,
+      responseType = com.network.OkResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.AddCazCaritabilRequest,
-      Charity.Protos.Charity.OkResponse> getAddCazCaritabilMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.AddCazCaritabilRequest, Charity.Protos.Charity.OkResponse> getAddCazCaritabilMethod;
+  public static io.grpc.MethodDescriptor<com.network.AddCazCaritabilRequest,
+      com.network.OkResponse> getAddCazCaritabilMethod() {
+    io.grpc.MethodDescriptor<com.network.AddCazCaritabilRequest, com.network.OkResponse> getAddCazCaritabilMethod;
     if ((getAddCazCaritabilMethod = CharityServiceGrpc.getAddCazCaritabilMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getAddCazCaritabilMethod = CharityServiceGrpc.getAddCazCaritabilMethod) == null) {
           CharityServiceGrpc.getAddCazCaritabilMethod = getAddCazCaritabilMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.AddCazCaritabilRequest, Charity.Protos.Charity.OkResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.AddCazCaritabilRequest, com.network.OkResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "AddCazCaritabil"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.AddCazCaritabilRequest.getDefaultInstance()))
+                  com.network.AddCazCaritabilRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.OkResponse.getDefaultInstance()))
+                  com.network.OkResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("AddCazCaritabil"))
               .build();
         }
@@ -235,29 +235,29 @@ public final class CharityServiceGrpc {
     return getAddCazCaritabilMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateCazCaritabilRequest,
-      Charity.Protos.Charity.OkResponse> getUpdateCazCaritabilMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.UpdateCazCaritabilRequest,
+      com.network.OkResponse> getUpdateCazCaritabilMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "UpdateCazCaritabil",
-      requestType = Charity.Protos.Charity.UpdateCazCaritabilRequest.class,
-      responseType = Charity.Protos.Charity.OkResponse.class,
+      requestType = com.network.UpdateCazCaritabilRequest.class,
+      responseType = com.network.OkResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateCazCaritabilRequest,
-      Charity.Protos.Charity.OkResponse> getUpdateCazCaritabilMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateCazCaritabilRequest, Charity.Protos.Charity.OkResponse> getUpdateCazCaritabilMethod;
+  public static io.grpc.MethodDescriptor<com.network.UpdateCazCaritabilRequest,
+      com.network.OkResponse> getUpdateCazCaritabilMethod() {
+    io.grpc.MethodDescriptor<com.network.UpdateCazCaritabilRequest, com.network.OkResponse> getUpdateCazCaritabilMethod;
     if ((getUpdateCazCaritabilMethod = CharityServiceGrpc.getUpdateCazCaritabilMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getUpdateCazCaritabilMethod = CharityServiceGrpc.getUpdateCazCaritabilMethod) == null) {
           CharityServiceGrpc.getUpdateCazCaritabilMethod = getUpdateCazCaritabilMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.UpdateCazCaritabilRequest, Charity.Protos.Charity.OkResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.UpdateCazCaritabilRequest, com.network.OkResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "UpdateCazCaritabil"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.UpdateCazCaritabilRequest.getDefaultInstance()))
+                  com.network.UpdateCazCaritabilRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.OkResponse.getDefaultInstance()))
+                  com.network.OkResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("UpdateCazCaritabil"))
               .build();
         }
@@ -266,29 +266,29 @@ public final class CharityServiceGrpc {
     return getUpdateCazCaritabilMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.LogoutUserRequest,
-      Charity.Protos.Charity.OkResponse> getLogoutUserMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.LogoutUserRequest,
+      com.network.OkResponse> getLogoutUserMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "LogoutUser",
-      requestType = Charity.Protos.Charity.LogoutUserRequest.class,
-      responseType = Charity.Protos.Charity.OkResponse.class,
+      requestType = com.network.LogoutUserRequest.class,
+      responseType = com.network.OkResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.LogoutUserRequest,
-      Charity.Protos.Charity.OkResponse> getLogoutUserMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.LogoutUserRequest, Charity.Protos.Charity.OkResponse> getLogoutUserMethod;
+  public static io.grpc.MethodDescriptor<com.network.LogoutUserRequest,
+      com.network.OkResponse> getLogoutUserMethod() {
+    io.grpc.MethodDescriptor<com.network.LogoutUserRequest, com.network.OkResponse> getLogoutUserMethod;
     if ((getLogoutUserMethod = CharityServiceGrpc.getLogoutUserMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getLogoutUserMethod = CharityServiceGrpc.getLogoutUserMethod) == null) {
           CharityServiceGrpc.getLogoutUserMethod = getLogoutUserMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.LogoutUserRequest, Charity.Protos.Charity.OkResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.LogoutUserRequest, com.network.OkResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "LogoutUser"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.LogoutUserRequest.getDefaultInstance()))
+                  com.network.LogoutUserRequest.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.OkResponse.getDefaultInstance()))
+                  com.network.OkResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("LogoutUser"))
               .build();
         }
@@ -297,35 +297,66 @@ public final class CharityServiceGrpc {
     return getLogoutUserMethod;
   }
 
-  private static volatile io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateResponse,
-      Charity.Protos.Charity.OkResponse> getNotifyUpdateMethod;
+  private static volatile io.grpc.MethodDescriptor<com.network.UpdateResponse,
+      com.network.OkResponse> getNotifyUpdateMethod;
 
   @io.grpc.stub.annotations.RpcMethod(
       fullMethodName = SERVICE_NAME + '/' + "NotifyUpdate",
-      requestType = Charity.Protos.Charity.UpdateResponse.class,
-      responseType = Charity.Protos.Charity.OkResponse.class,
+      requestType = com.network.UpdateResponse.class,
+      responseType = com.network.OkResponse.class,
       methodType = io.grpc.MethodDescriptor.MethodType.UNARY)
-  public static io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateResponse,
-      Charity.Protos.Charity.OkResponse> getNotifyUpdateMethod() {
-    io.grpc.MethodDescriptor<Charity.Protos.Charity.UpdateResponse, Charity.Protos.Charity.OkResponse> getNotifyUpdateMethod;
+  public static io.grpc.MethodDescriptor<com.network.UpdateResponse,
+      com.network.OkResponse> getNotifyUpdateMethod() {
+    io.grpc.MethodDescriptor<com.network.UpdateResponse, com.network.OkResponse> getNotifyUpdateMethod;
     if ((getNotifyUpdateMethod = CharityServiceGrpc.getNotifyUpdateMethod) == null) {
       synchronized (CharityServiceGrpc.class) {
         if ((getNotifyUpdateMethod = CharityServiceGrpc.getNotifyUpdateMethod) == null) {
           CharityServiceGrpc.getNotifyUpdateMethod = getNotifyUpdateMethod =
-              io.grpc.MethodDescriptor.<Charity.Protos.Charity.UpdateResponse, Charity.Protos.Charity.OkResponse>newBuilder()
+              io.grpc.MethodDescriptor.<com.network.UpdateResponse, com.network.OkResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(SERVICE_NAME, "NotifyUpdate"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.UpdateResponse.getDefaultInstance()))
+                  com.network.UpdateResponse.getDefaultInstance()))
               .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
-                  Charity.Protos.Charity.OkResponse.getDefaultInstance()))
+                  com.network.OkResponse.getDefaultInstance()))
               .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("NotifyUpdate"))
               .build();
         }
       }
     }
     return getNotifyUpdateMethod;
+  }
+
+  private static volatile io.grpc.MethodDescriptor<com.google.protobuf.Empty,
+      com.network.UpdateResponse> getSubscribeToNotificationsMethod;
+
+  @io.grpc.stub.annotations.RpcMethod(
+      fullMethodName = SERVICE_NAME + '/' + "SubscribeToNotifications",
+      requestType = com.google.protobuf.Empty.class,
+      responseType = com.network.UpdateResponse.class,
+      methodType = io.grpc.MethodDescriptor.MethodType.SERVER_STREAMING)
+  public static io.grpc.MethodDescriptor<com.google.protobuf.Empty,
+      com.network.UpdateResponse> getSubscribeToNotificationsMethod() {
+    io.grpc.MethodDescriptor<com.google.protobuf.Empty, com.network.UpdateResponse> getSubscribeToNotificationsMethod;
+    if ((getSubscribeToNotificationsMethod = CharityServiceGrpc.getSubscribeToNotificationsMethod) == null) {
+      synchronized (CharityServiceGrpc.class) {
+        if ((getSubscribeToNotificationsMethod = CharityServiceGrpc.getSubscribeToNotificationsMethod) == null) {
+          CharityServiceGrpc.getSubscribeToNotificationsMethod = getSubscribeToNotificationsMethod =
+              io.grpc.MethodDescriptor.<com.google.protobuf.Empty, com.network.UpdateResponse>newBuilder()
+              .setType(io.grpc.MethodDescriptor.MethodType.SERVER_STREAMING)
+              .setFullMethodName(generateFullMethodName(SERVICE_NAME, "SubscribeToNotifications"))
+              .setSampledToLocalTracing(true)
+              .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
+                  com.google.protobuf.Empty.getDefaultInstance()))
+              .setResponseMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
+                  com.network.UpdateResponse.getDefaultInstance()))
+              .setSchemaDescriptor(new CharityServiceMethodDescriptorSupplier("SubscribeToNotifications"))
+              .build();
+        }
+      }
+    }
+    return getSubscribeToNotificationsMethod;
   }
 
   /**
@@ -396,72 +427,79 @@ public final class CharityServiceGrpc {
 
     /**
      */
-    default void loginUser(Charity.Protos.Charity.LoginUserRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.LoginUserResponse> responseObserver) {
+    default void loginUser(com.network.LoginUserRequest request,
+        io.grpc.stub.StreamObserver<com.network.LoginUserResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getLoginUserMethod(), responseObserver);
     }
 
     /**
      */
-    default void getCazuri(Charity.Protos.Charity.GetCazuriRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.GetCazuriResponse> responseObserver) {
+    default void getCazuri(com.network.GetCazuriRequest request,
+        io.grpc.stub.StreamObserver<com.network.GetCazuriResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getGetCazuriMethod(), responseObserver);
     }
 
     /**
      */
-    default void getDonators(Charity.Protos.Charity.GetDonatorsRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.GetDonatorsResponse> responseObserver) {
+    default void getDonators(com.network.GetDonatorsRequest request,
+        io.grpc.stub.StreamObserver<com.network.GetDonatorsResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getGetDonatorsMethod(), responseObserver);
     }
 
     /**
      */
-    default void addDonation(Charity.Protos.Charity.AddDonationRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    default void addDonation(com.network.AddDonationRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getAddDonationMethod(), responseObserver);
     }
 
     /**
      */
-    default void addDonator(Charity.Protos.Charity.AddDonatorRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    default void addDonator(com.network.AddDonatorRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getAddDonatorMethod(), responseObserver);
     }
 
     /**
      */
-    default void updateDonator(Charity.Protos.Charity.UpdateDonatorRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    default void updateDonator(com.network.UpdateDonatorRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getUpdateDonatorMethod(), responseObserver);
     }
 
     /**
      */
-    default void addCazCaritabil(Charity.Protos.Charity.AddCazCaritabilRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    default void addCazCaritabil(com.network.AddCazCaritabilRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getAddCazCaritabilMethod(), responseObserver);
     }
 
     /**
      */
-    default void updateCazCaritabil(Charity.Protos.Charity.UpdateCazCaritabilRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    default void updateCazCaritabil(com.network.UpdateCazCaritabilRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getUpdateCazCaritabilMethod(), responseObserver);
     }
 
     /**
      */
-    default void logoutUser(Charity.Protos.Charity.LogoutUserRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    default void logoutUser(com.network.LogoutUserRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getLogoutUserMethod(), responseObserver);
     }
 
     /**
      */
-    default void notifyUpdate(Charity.Protos.Charity.UpdateResponse request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    default void notifyUpdate(com.network.UpdateResponse request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getNotifyUpdateMethod(), responseObserver);
+    }
+
+    /**
+     */
+    default void subscribeToNotifications(com.google.protobuf.Empty request,
+        io.grpc.stub.StreamObserver<com.network.UpdateResponse> responseObserver) {
+      io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall(getSubscribeToNotificationsMethod(), responseObserver);
     }
   }
 
@@ -500,82 +538,90 @@ public final class CharityServiceGrpc {
 
     /**
      */
-    public void loginUser(Charity.Protos.Charity.LoginUserRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.LoginUserResponse> responseObserver) {
+    public void loginUser(com.network.LoginUserRequest request,
+        io.grpc.stub.StreamObserver<com.network.LoginUserResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getLoginUserMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void getCazuri(Charity.Protos.Charity.GetCazuriRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.GetCazuriResponse> responseObserver) {
+    public void getCazuri(com.network.GetCazuriRequest request,
+        io.grpc.stub.StreamObserver<com.network.GetCazuriResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getGetCazuriMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void getDonators(Charity.Protos.Charity.GetDonatorsRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.GetDonatorsResponse> responseObserver) {
+    public void getDonators(com.network.GetDonatorsRequest request,
+        io.grpc.stub.StreamObserver<com.network.GetDonatorsResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getGetDonatorsMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void addDonation(Charity.Protos.Charity.AddDonationRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    public void addDonation(com.network.AddDonationRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getAddDonationMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void addDonator(Charity.Protos.Charity.AddDonatorRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    public void addDonator(com.network.AddDonatorRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getAddDonatorMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void updateDonator(Charity.Protos.Charity.UpdateDonatorRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    public void updateDonator(com.network.UpdateDonatorRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getUpdateDonatorMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void addCazCaritabil(Charity.Protos.Charity.AddCazCaritabilRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    public void addCazCaritabil(com.network.AddCazCaritabilRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getAddCazCaritabilMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void updateCazCaritabil(Charity.Protos.Charity.UpdateCazCaritabilRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    public void updateCazCaritabil(com.network.UpdateCazCaritabilRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getUpdateCazCaritabilMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void logoutUser(Charity.Protos.Charity.LogoutUserRequest request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    public void logoutUser(com.network.LogoutUserRequest request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getLogoutUserMethod(), getCallOptions()), request, responseObserver);
     }
 
     /**
      */
-    public void notifyUpdate(Charity.Protos.Charity.UpdateResponse request,
-        io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse> responseObserver) {
+    public void notifyUpdate(com.network.UpdateResponse request,
+        io.grpc.stub.StreamObserver<com.network.OkResponse> responseObserver) {
       io.grpc.stub.ClientCalls.asyncUnaryCall(
           getChannel().newCall(getNotifyUpdateMethod(), getCallOptions()), request, responseObserver);
+    }
+
+    /**
+     */
+    public void subscribeToNotifications(com.google.protobuf.Empty request,
+        io.grpc.stub.StreamObserver<com.network.UpdateResponse> responseObserver) {
+      io.grpc.stub.ClientCalls.asyncServerStreamingCall(
+          getChannel().newCall(getSubscribeToNotificationsMethod(), getCallOptions()), request, responseObserver);
     }
   }
 
@@ -600,72 +646,81 @@ public final class CharityServiceGrpc {
 
     /**
      */
-    public Charity.Protos.Charity.LoginUserResponse loginUser(Charity.Protos.Charity.LoginUserRequest request) {
+    public com.network.LoginUserResponse loginUser(com.network.LoginUserRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getLoginUserMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.GetCazuriResponse getCazuri(Charity.Protos.Charity.GetCazuriRequest request) {
+    public com.network.GetCazuriResponse getCazuri(com.network.GetCazuriRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getGetCazuriMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.GetDonatorsResponse getDonators(Charity.Protos.Charity.GetDonatorsRequest request) {
+    public com.network.GetDonatorsResponse getDonators(com.network.GetDonatorsRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getGetDonatorsMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse addDonation(Charity.Protos.Charity.AddDonationRequest request) {
+    public com.network.OkResponse addDonation(com.network.AddDonationRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getAddDonationMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse addDonator(Charity.Protos.Charity.AddDonatorRequest request) {
+    public com.network.OkResponse addDonator(com.network.AddDonatorRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getAddDonatorMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse updateDonator(Charity.Protos.Charity.UpdateDonatorRequest request) {
+    public com.network.OkResponse updateDonator(com.network.UpdateDonatorRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getUpdateDonatorMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse addCazCaritabil(Charity.Protos.Charity.AddCazCaritabilRequest request) {
+    public com.network.OkResponse addCazCaritabil(com.network.AddCazCaritabilRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getAddCazCaritabilMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse updateCazCaritabil(Charity.Protos.Charity.UpdateCazCaritabilRequest request) {
+    public com.network.OkResponse updateCazCaritabil(com.network.UpdateCazCaritabilRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getUpdateCazCaritabilMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse logoutUser(Charity.Protos.Charity.LogoutUserRequest request) {
+    public com.network.OkResponse logoutUser(com.network.LogoutUserRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getLogoutUserMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse notifyUpdate(Charity.Protos.Charity.UpdateResponse request) {
+    public com.network.OkResponse notifyUpdate(com.network.UpdateResponse request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getNotifyUpdateMethod(), getCallOptions(), request);
+    }
+
+    /**
+     */
+    @io.grpc.ExperimentalApi("https://github.com/grpc/grpc-java/issues/10918")
+    public io.grpc.stub.BlockingClientCall<?, com.network.UpdateResponse>
+        subscribeToNotifications(com.google.protobuf.Empty request) {
+      return io.grpc.stub.ClientCalls.blockingV2ServerStreamingCall(
+          getChannel(), getSubscribeToNotificationsMethod(), getCallOptions(), request);
     }
   }
 
@@ -690,72 +745,80 @@ public final class CharityServiceGrpc {
 
     /**
      */
-    public Charity.Protos.Charity.LoginUserResponse loginUser(Charity.Protos.Charity.LoginUserRequest request) {
+    public com.network.LoginUserResponse loginUser(com.network.LoginUserRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getLoginUserMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.GetCazuriResponse getCazuri(Charity.Protos.Charity.GetCazuriRequest request) {
+    public com.network.GetCazuriResponse getCazuri(com.network.GetCazuriRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getGetCazuriMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.GetDonatorsResponse getDonators(Charity.Protos.Charity.GetDonatorsRequest request) {
+    public com.network.GetDonatorsResponse getDonators(com.network.GetDonatorsRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getGetDonatorsMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse addDonation(Charity.Protos.Charity.AddDonationRequest request) {
+    public com.network.OkResponse addDonation(com.network.AddDonationRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getAddDonationMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse addDonator(Charity.Protos.Charity.AddDonatorRequest request) {
+    public com.network.OkResponse addDonator(com.network.AddDonatorRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getAddDonatorMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse updateDonator(Charity.Protos.Charity.UpdateDonatorRequest request) {
+    public com.network.OkResponse updateDonator(com.network.UpdateDonatorRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getUpdateDonatorMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse addCazCaritabil(Charity.Protos.Charity.AddCazCaritabilRequest request) {
+    public com.network.OkResponse addCazCaritabil(com.network.AddCazCaritabilRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getAddCazCaritabilMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse updateCazCaritabil(Charity.Protos.Charity.UpdateCazCaritabilRequest request) {
+    public com.network.OkResponse updateCazCaritabil(com.network.UpdateCazCaritabilRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getUpdateCazCaritabilMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse logoutUser(Charity.Protos.Charity.LogoutUserRequest request) {
+    public com.network.OkResponse logoutUser(com.network.LogoutUserRequest request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getLogoutUserMethod(), getCallOptions(), request);
     }
 
     /**
      */
-    public Charity.Protos.Charity.OkResponse notifyUpdate(Charity.Protos.Charity.UpdateResponse request) {
+    public com.network.OkResponse notifyUpdate(com.network.UpdateResponse request) {
       return io.grpc.stub.ClientCalls.blockingUnaryCall(
           getChannel(), getNotifyUpdateMethod(), getCallOptions(), request);
+    }
+
+    /**
+     */
+    public java.util.Iterator<com.network.UpdateResponse> subscribeToNotifications(
+        com.google.protobuf.Empty request) {
+      return io.grpc.stub.ClientCalls.blockingServerStreamingCall(
+          getChannel(), getSubscribeToNotificationsMethod(), getCallOptions(), request);
     }
   }
 
@@ -780,80 +843,80 @@ public final class CharityServiceGrpc {
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.LoginUserResponse> loginUser(
-        Charity.Protos.Charity.LoginUserRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.LoginUserResponse> loginUser(
+        com.network.LoginUserRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getLoginUserMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.GetCazuriResponse> getCazuri(
-        Charity.Protos.Charity.GetCazuriRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.GetCazuriResponse> getCazuri(
+        com.network.GetCazuriRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getGetCazuriMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.GetDonatorsResponse> getDonators(
-        Charity.Protos.Charity.GetDonatorsRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.GetDonatorsResponse> getDonators(
+        com.network.GetDonatorsRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getGetDonatorsMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.OkResponse> addDonation(
-        Charity.Protos.Charity.AddDonationRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.OkResponse> addDonation(
+        com.network.AddDonationRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getAddDonationMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.OkResponse> addDonator(
-        Charity.Protos.Charity.AddDonatorRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.OkResponse> addDonator(
+        com.network.AddDonatorRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getAddDonatorMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.OkResponse> updateDonator(
-        Charity.Protos.Charity.UpdateDonatorRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.OkResponse> updateDonator(
+        com.network.UpdateDonatorRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getUpdateDonatorMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.OkResponse> addCazCaritabil(
-        Charity.Protos.Charity.AddCazCaritabilRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.OkResponse> addCazCaritabil(
+        com.network.AddCazCaritabilRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getAddCazCaritabilMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.OkResponse> updateCazCaritabil(
-        Charity.Protos.Charity.UpdateCazCaritabilRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.OkResponse> updateCazCaritabil(
+        com.network.UpdateCazCaritabilRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getUpdateCazCaritabilMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.OkResponse> logoutUser(
-        Charity.Protos.Charity.LogoutUserRequest request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.OkResponse> logoutUser(
+        com.network.LogoutUserRequest request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getLogoutUserMethod(), getCallOptions()), request);
     }
 
     /**
      */
-    public com.google.common.util.concurrent.ListenableFuture<Charity.Protos.Charity.OkResponse> notifyUpdate(
-        Charity.Protos.Charity.UpdateResponse request) {
+    public com.google.common.util.concurrent.ListenableFuture<com.network.OkResponse> notifyUpdate(
+        com.network.UpdateResponse request) {
       return io.grpc.stub.ClientCalls.futureUnaryCall(
           getChannel().newCall(getNotifyUpdateMethod(), getCallOptions()), request);
     }
@@ -869,6 +932,7 @@ public final class CharityServiceGrpc {
   private static final int METHODID_UPDATE_CAZ_CARITABIL = 7;
   private static final int METHODID_LOGOUT_USER = 8;
   private static final int METHODID_NOTIFY_UPDATE = 9;
+  private static final int METHODID_SUBSCRIBE_TO_NOTIFICATIONS = 10;
 
   private static final class MethodHandlers<Req, Resp> implements
       io.grpc.stub.ServerCalls.UnaryMethod<Req, Resp>,
@@ -888,44 +952,48 @@ public final class CharityServiceGrpc {
     public void invoke(Req request, io.grpc.stub.StreamObserver<Resp> responseObserver) {
       switch (methodId) {
         case METHODID_LOGIN_USER:
-          serviceImpl.loginUser((Charity.Protos.Charity.LoginUserRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.LoginUserResponse>) responseObserver);
+          serviceImpl.loginUser((com.network.LoginUserRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.LoginUserResponse>) responseObserver);
           break;
         case METHODID_GET_CAZURI:
-          serviceImpl.getCazuri((Charity.Protos.Charity.GetCazuriRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.GetCazuriResponse>) responseObserver);
+          serviceImpl.getCazuri((com.network.GetCazuriRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.GetCazuriResponse>) responseObserver);
           break;
         case METHODID_GET_DONATORS:
-          serviceImpl.getDonators((Charity.Protos.Charity.GetDonatorsRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.GetDonatorsResponse>) responseObserver);
+          serviceImpl.getDonators((com.network.GetDonatorsRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.GetDonatorsResponse>) responseObserver);
           break;
         case METHODID_ADD_DONATION:
-          serviceImpl.addDonation((Charity.Protos.Charity.AddDonationRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse>) responseObserver);
+          serviceImpl.addDonation((com.network.AddDonationRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.OkResponse>) responseObserver);
           break;
         case METHODID_ADD_DONATOR:
-          serviceImpl.addDonator((Charity.Protos.Charity.AddDonatorRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse>) responseObserver);
+          serviceImpl.addDonator((com.network.AddDonatorRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.OkResponse>) responseObserver);
           break;
         case METHODID_UPDATE_DONATOR:
-          serviceImpl.updateDonator((Charity.Protos.Charity.UpdateDonatorRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse>) responseObserver);
+          serviceImpl.updateDonator((com.network.UpdateDonatorRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.OkResponse>) responseObserver);
           break;
         case METHODID_ADD_CAZ_CARITABIL:
-          serviceImpl.addCazCaritabil((Charity.Protos.Charity.AddCazCaritabilRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse>) responseObserver);
+          serviceImpl.addCazCaritabil((com.network.AddCazCaritabilRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.OkResponse>) responseObserver);
           break;
         case METHODID_UPDATE_CAZ_CARITABIL:
-          serviceImpl.updateCazCaritabil((Charity.Protos.Charity.UpdateCazCaritabilRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse>) responseObserver);
+          serviceImpl.updateCazCaritabil((com.network.UpdateCazCaritabilRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.OkResponse>) responseObserver);
           break;
         case METHODID_LOGOUT_USER:
-          serviceImpl.logoutUser((Charity.Protos.Charity.LogoutUserRequest) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse>) responseObserver);
+          serviceImpl.logoutUser((com.network.LogoutUserRequest) request,
+              (io.grpc.stub.StreamObserver<com.network.OkResponse>) responseObserver);
           break;
         case METHODID_NOTIFY_UPDATE:
-          serviceImpl.notifyUpdate((Charity.Protos.Charity.UpdateResponse) request,
-              (io.grpc.stub.StreamObserver<Charity.Protos.Charity.OkResponse>) responseObserver);
+          serviceImpl.notifyUpdate((com.network.UpdateResponse) request,
+              (io.grpc.stub.StreamObserver<com.network.OkResponse>) responseObserver);
+          break;
+        case METHODID_SUBSCRIBE_TO_NOTIFICATIONS:
+          serviceImpl.subscribeToNotifications((com.google.protobuf.Empty) request,
+              (io.grpc.stub.StreamObserver<com.network.UpdateResponse>) responseObserver);
           break;
         default:
           throw new AssertionError();
@@ -949,72 +1017,79 @@ public final class CharityServiceGrpc {
           getLoginUserMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.LoginUserRequest,
-              Charity.Protos.Charity.LoginUserResponse>(
+              com.network.LoginUserRequest,
+              com.network.LoginUserResponse>(
                 service, METHODID_LOGIN_USER)))
         .addMethod(
           getGetCazuriMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.GetCazuriRequest,
-              Charity.Protos.Charity.GetCazuriResponse>(
+              com.network.GetCazuriRequest,
+              com.network.GetCazuriResponse>(
                 service, METHODID_GET_CAZURI)))
         .addMethod(
           getGetDonatorsMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.GetDonatorsRequest,
-              Charity.Protos.Charity.GetDonatorsResponse>(
+              com.network.GetDonatorsRequest,
+              com.network.GetDonatorsResponse>(
                 service, METHODID_GET_DONATORS)))
         .addMethod(
           getAddDonationMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.AddDonationRequest,
-              Charity.Protos.Charity.OkResponse>(
+              com.network.AddDonationRequest,
+              com.network.OkResponse>(
                 service, METHODID_ADD_DONATION)))
         .addMethod(
           getAddDonatorMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.AddDonatorRequest,
-              Charity.Protos.Charity.OkResponse>(
+              com.network.AddDonatorRequest,
+              com.network.OkResponse>(
                 service, METHODID_ADD_DONATOR)))
         .addMethod(
           getUpdateDonatorMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.UpdateDonatorRequest,
-              Charity.Protos.Charity.OkResponse>(
+              com.network.UpdateDonatorRequest,
+              com.network.OkResponse>(
                 service, METHODID_UPDATE_DONATOR)))
         .addMethod(
           getAddCazCaritabilMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.AddCazCaritabilRequest,
-              Charity.Protos.Charity.OkResponse>(
+              com.network.AddCazCaritabilRequest,
+              com.network.OkResponse>(
                 service, METHODID_ADD_CAZ_CARITABIL)))
         .addMethod(
           getUpdateCazCaritabilMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.UpdateCazCaritabilRequest,
-              Charity.Protos.Charity.OkResponse>(
+              com.network.UpdateCazCaritabilRequest,
+              com.network.OkResponse>(
                 service, METHODID_UPDATE_CAZ_CARITABIL)))
         .addMethod(
           getLogoutUserMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.LogoutUserRequest,
-              Charity.Protos.Charity.OkResponse>(
+              com.network.LogoutUserRequest,
+              com.network.OkResponse>(
                 service, METHODID_LOGOUT_USER)))
         .addMethod(
           getNotifyUpdateMethod(),
           io.grpc.stub.ServerCalls.asyncUnaryCall(
             new MethodHandlers<
-              Charity.Protos.Charity.UpdateResponse,
-              Charity.Protos.Charity.OkResponse>(
+              com.network.UpdateResponse,
+              com.network.OkResponse>(
                 service, METHODID_NOTIFY_UPDATE)))
+        .addMethod(
+          getSubscribeToNotificationsMethod(),
+          io.grpc.stub.ServerCalls.asyncServerStreamingCall(
+            new MethodHandlers<
+              com.google.protobuf.Empty,
+              com.network.UpdateResponse>(
+                service, METHODID_SUBSCRIBE_TO_NOTIFICATIONS)))
         .build();
   }
 
@@ -1024,7 +1099,7 @@ public final class CharityServiceGrpc {
 
     @java.lang.Override
     public com.google.protobuf.Descriptors.FileDescriptor getFileDescriptor() {
-      return Charity.Protos.Charity.getDescriptor();
+      return com.network.Charity.getDescriptor();
     }
 
     @java.lang.Override
@@ -1073,6 +1148,7 @@ public final class CharityServiceGrpc {
               .addMethod(getUpdateCazCaritabilMethod())
               .addMethod(getLogoutUserMethod())
               .addMethod(getNotifyUpdateMethod())
+              .addMethod(getSubscribeToNotificationsMethod())
               .build();
         }
       }

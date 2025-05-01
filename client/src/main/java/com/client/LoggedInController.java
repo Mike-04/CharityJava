@@ -177,6 +177,7 @@ public void populateDonatorTable() {
         } else {
             showMessage("Please select a donor and a case.");
         }
+        update();
 
     }
 

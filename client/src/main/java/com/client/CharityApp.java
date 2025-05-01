@@ -2,6 +2,7 @@ package com.client;
 
 
 import com.network.client.ServiceObjectProxy;
+import com.network.client.ServiceRpc;
 import com.service.*;
 import com.repo.*;
 import com.service.CazCaritabilService;
@@ -21,7 +22,7 @@ import java.util.Properties;
 public class CharityApp extends Application {
     @Override
     public void start(Stage stage) throws Exception {
-        var server = new ServiceObjectProxy("127.0.0.1", 5555);
+        var server = new ServiceRpc("127.0.0.1", 5000);
 
         com.client.LoginController controller = new com.client.LoginController();
         controller.setService(server);
